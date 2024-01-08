@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\xamarinchart.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\xamarinchart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\xamarinchart.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\xamarinchart.AssemblyInfo.cs
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\xamarinchart.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\bin\Debug\netstandard2.0\xamarinchart.deps.json
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\bin\Debug\netstandard2.0\xamarinchart.dll
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\bin\Debug\netstandard2.0\ref\xamarinchart.dll
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\bin\Debug\netstandard2.0\xamarinchart.pdb
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\xamarinchart.dll
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\refint\xamarinchart.dll
+C:\Users\gusta\source\repos\xamarinchart\xamarinchart\obj\Debug\netstandard2.0\xamarinchart.pdb
